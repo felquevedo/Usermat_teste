@@ -18,7 +18,7 @@
 !***********************************************************!
 FINISH  		
 /CLEAR,NOSTART  	
-mais uma alteração
+mais uma alteração 2 3
 !
 !***********************************************************!
 ! 1.1 Pasta que guardará os arquivos da análise             !
