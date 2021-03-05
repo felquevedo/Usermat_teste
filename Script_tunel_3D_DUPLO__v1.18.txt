@@ -1,4 +1,4 @@
-﻿!***********************************************************!
+!***********************************************************!
 !** PROGRAMA ANÁLISE TUNEL DUPLO (MODELO 3D)              **!
 !** Versão: 1.18					  **!
 !**                                                       **!
@@ -17,7 +17,8 @@
 ! 1. Inicializando o Ansys                                  !
 !***********************************************************!
 FINISH  		
-/CLEAR,NOSTART  	
+/CLEAR,NOSTART  
+! qualquer coisa pra testar	
 !
 !***********************************************************!
 ! 1.1 Pasta que guardará os arquivos da análise             !
